@@ -20,21 +20,11 @@ Edit multiple JavaScript files in this lab to refactor this app to have multiple
 
 1. Open up the repository in VSCode. Follow the instructions below to complete the Lab.
 
-1. Deploy this application to Netlify and add the link to your netlify site below:
+## Tips
 
-- [MY LIVE SITE URL]()
+1. The application mockups below are a design reference for if you have time. The main purpose of this lab is to connect all the components.
 
-#### Testing Tips
-
-Keep the following in mind for this lab as you run the tests.
-
-1. The application mockups below are a design reference for if you have time. The main purpose of this lab is to connect all the components and get the tests to pass.
-
-1. While running your tests, you must have a server up and running in another terminal. This means you will have _both_ a terminal window running the actual React application _and_ a terminal window running the tests.
-
-1. When creating a component, make sure to create and import it with the same name as the file name. For example, the component created and exported inside of the `Post.js` file should be `Post`. The tests look for these specific names.
-
-1. While the `cypress-watch-and-reload` package has been installed in this project, sometimes the React application will take longer to reload than the tests. If you feel as though a test should be passing that isn't, try pressing the re-run button in the Cypress tests before asking for help.
+1. When creating a component, make sure to create and import it with the same name as the file name. For example, the component created and exported inside of the `Post.js` file should be `Post`.
 
 ## Instructions
 
